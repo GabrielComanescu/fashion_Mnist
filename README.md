@@ -2,6 +2,7 @@
 
 ## Data
 Neural network implemnentation with pytorch for the fashion mnist dataset.
+
 The dataset can be found at this repo https://github.com/zalandoresearch/fashion-mnist
 
 ## Training
@@ -10,7 +11,6 @@ After training for 4 epochs the model got 86% accuracy. On 8 epochs it jumped to
 
 ## Testing on all data at once
 In test_all_data.py it runs all the test data in one batch.
-
 It prints out the accuracy and the confusion matrix.
 ![confusion matrix](/images/Confusion_matrix.png "Confusion Matrix")
 
