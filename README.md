@@ -11,7 +11,7 @@ After training for 4 epochs the model got 86% accuracy. On 8 epochs it jumped to
 ## Testing on all data at once
 In test_all_data.py it runs all the test data in one batch.
 It prints out the accuracy and the confusion matrix.
-![confusion matrix](/images/confusion_matrix.png "Confusion Matrix")
+![confusion matrix](/images/Confusion_matrix.png "Confusion Matrix")
 
 ## Testing on a random image
 Running test_random_image.py plots a random image with the prediction label next to the true label of the data.
