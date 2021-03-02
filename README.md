@@ -5,7 +5,8 @@ Neural network implemnentation with pytorch for the fashion mnist dataset.
 
 The dataset can be found at this repo https://github.com/zalandoresearch/fashion-mnist
 
-![sad](https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/master/doc/img/fashion-mnist-sprite.png = 250 x 250)
+![](https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/master/doc/img/fashion-mnist-sprite.png = 250 x 250)
+<img src="https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/master/doc/img/fashion-mnist-sprite.png" width="100" height="100">
 
 
 ## Training
