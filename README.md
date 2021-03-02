@@ -26,6 +26,6 @@ It prints out the accuracy and the confusion matrix.
 
 ## Testing on a random image
 Running test_random_image.py plots a random image with the prediction label next to the true label of the data.
-<img src="/images/random_prediction.png" width="350" height="350")
+<img src="/images/random_prediction.png" width="350" height="350">
 
 
